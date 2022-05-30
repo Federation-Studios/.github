@@ -9,7 +9,6 @@
 
 - 📫 How to reach us **https://discord.gg/irf**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -20,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=federation-studios&show_icons=true&locale=en" alt="federation-studios" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=federation-studios&" alt="federation-studios" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?group=federation-studios&" alt="federation-studios" /></p>
