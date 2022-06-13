@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, we are Federation-Studios</h1>
-<h3 align="center">...BotDev Team</h3>
+<h1 align="center">Hello 👋, we are Federation-Studios!</h1>
+<h3 align="center">...the Immortal Robloxian Federation's Bot Development Team</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=federation-studios&label=Profile%20views&color=0e75b6&style=flat" alt="federation-studios" /> </p>
 
-- 🔭 We are currently working on [Bots for the Federations Divisions](https://github.com/Federation-Studios)
+- 🔭 We are currently working on [bots for the Federation's divisions](https://github.com/Federation-Studios)
 
 - 🤝 You can join us at [Federation Studios](https://docs.google.com/forms/d/e/1FAIpQLSfeB-oMQmqa_6Nb1wUe-qFExIKdawPvKcZUCf7u_bqPLOvNhg/viewform?usp=sf_link)
 
-- 📫 How to reach us **https://discord.gg/irf**
+- 📫 And reach us at **https://discord.gg/irf**
 
 <p align="left">
 </p>
